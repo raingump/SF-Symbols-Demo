@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  SFSymbolsSwiftDemo
+
+  Created by ganyu on 2022/8/1.
+  
+*/
+
+"colors" = "Colors";
+"weight" = "Weights";
+"design" = "Design Variant ";
+"monochrome" = "Monochrome";
+"hierarchical" = "Hierarchical";
+"palette" = "Palette";
+"multi_color" = "Multi-Color";
+
